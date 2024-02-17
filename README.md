@@ -9,8 +9,7 @@ knyttet opp mot elektronikk-studiene.
 Jeg begynte med å finne noen gode kilder, blant annet: R. E. Hunt (2002), Cambridge university, http://ael.cbnu.ac.kr/lectures/graduate/adv-em-1/2018-1/lecture-notes/electrostatics-1/ch4-electrostatics-1-appendix-C-numerical-sol-poisson.pdf, og wikipediasiden om Poisson ligningen https://en.wikipedia.org/wiki/Poisson%27s_equation. Jeg brukte også litt mer indirekte denne siden for inspirasjon: https://www.studysmarter.co.uk/explanations/physics/electromagnetism/poisson-equation/.
 Jeg fant også noen som numerisk hadde løst den: http://ael.cbnu.ac.kr/lectures/graduate/adv-em-1/2018-1/lecture-notes/electrostatics-1/ch4-electrostatics-1-appendix-C-numerical-sol-poisson.pdf, men jeg må si at jeg skjønte ikke mye av den numeriske løsningen her.
 
-Hunt forklarte veldig nøye alt som trengtes å forstå for å løse problemet numerisk. Det var her jeg tok meste inspirasjonen fra, i tillegg til at den viktigste kodelinjen
-hentet jeg herifra som er kommentert direkte i koden.
+Hunt (side 19-22) forklarte veldig nøye alt som trengtes å forstå for å løse problemet numerisk. Det var her jeg tok meste inspirasjonen fra, i tillegg til at den viktigste kodelinjen hentet jeg herifra som er kommentert direkte i koden.
 
 Når det gjelder selve python-kodingen og matplotlib bruken brukte jeg jevnlig matplotlib sin egen side: https://matplotlib.org/stable/, blant annet får å vise grafen og "colorbar"-en riktig og med farger jeg syntes passet. 
 
