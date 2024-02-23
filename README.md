@@ -33,6 +33,7 @@ f[R > radius] = 0
 delta_x = 1.0 / (Nx - 1)
 delta_x2 = delta_x**2  
 u = np.zeros((Ny, Nx))
+
 for i in range(5000):
     u_old = u.copy() #u.copy() er en måte å kopiere ett array på, veldig nttig. 
                     #Her f.eks får vi da hele tiden det gamle arrayet slik at vi hele tiden får lagret det.
